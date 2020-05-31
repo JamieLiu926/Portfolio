@@ -193,7 +193,7 @@
 
 
 .vid-wrap video{
-    object-fit:cover;
+    object-fit: cover;
     outline:none;
     position: absolute;
     top:0;
