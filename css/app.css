@@ -128,7 +128,7 @@
 }
 
 .footbanner1{
-  height: 400px;
+  height: 200px;
   width: 100%;
   background-image: url(../img/pics/1-foot.jpg);
   background-size: cover;
@@ -136,7 +136,7 @@
 }
 
 .footbanner2{
-  height: 400px;
+  height: 200px;
   width: 100%;
   background-image: url(../img/pics/2-foot.jpg);
   background-size: cover;
@@ -144,7 +144,7 @@
 }
 
 .footbanner3{
-  height: 400px;
+  height: 200px;
   width: 100%;
   background-image: url(../img/pics/3-foot.jpg);
   background-size: cover;
@@ -152,7 +152,7 @@
 }
 
 .footbanner4{
-  height: 400px;
+  height: 200px;
   width: 100%;
   background-image: url(../img/pics/4-foot.jpg);
   background-size: cover;
